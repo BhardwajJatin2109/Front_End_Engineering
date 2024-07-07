@@ -1,1 +1,30 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body topmargin="50" leftmargin="100">
+    <center><font size="500">|| जय हिन्द, जय भारत ||</font></center>
+    <br>
+    <center><img src="picture3.png"  alt="" height="350" width="600"></center>
+    <br>
+    <hr>
+    <br>
+    <img src="Picture1.png" alt="" height="500" width="300">
+    
+    <br>
+    <hr>
+    <br>
+        
+    <img src="Image.png" alt="Image" height="450">
+    <br>
+    <hr>
+    <br>
+    <img src="Image2.png" alt="" width="300">
+    <br>
+    <hr>
+    <br>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <h1><u>Jatin Bhardwaj</u></h1>
+    <p><b>Summary:</b>  Full enthusisat values learning with time management. Belives in developing personal brand and good personality. </p>
+    <img src=" " width="300">
+    <ul><h2>Education</h2>
+    <li><b>Class X(CBSE):</b> 82.80%</li>
+    <li><b>Class XII(CBSE):</b> 73.3%</li>
+</ul>
+<ul><h2>Skills</h2>
+    <li>Cyber Security Expert</li>
+    <li>Salesforce Developer</li>
+    <li>Front End Developer</li>
+</ul>
+<ul><h2>Hobbies</h2>
+<li>Athletics</li>
+<li>Chess</li>
+<li>Visiting Temples</li></ul>
+<ul>
+    <li><b>Email:</b>  </li>
+
+<li><a href=" " target=" ">Linkedin</a></li>
+</ul>
+
+</body>
+</html>
